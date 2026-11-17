@@ -68,7 +68,7 @@ I'm pursuing a **Bachelor of Computer Applications (BCA)** and exploring softwar
 
 A URL scanning application with security assessments and warning indicators. The React and Vite frontend connects to a Node.js and Express API, with MongoDB Atlas and Mongoose for data storage and dotenv for environment configuration.
 
-_Repository link to be added when the project is published._
+_Repository is currently private; I’ll add a public link here later._
 
 ### [Student Expense Tracker](https://github.com/adith-k-git/student-expense-tracker)
 
