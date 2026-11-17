@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./profile-banner.png" alt="Adith K — Cloud Engineering Portfolio Banner" width="100%" />
+</div>
+
+<div align="center">
 
 # Adith K
 
@@ -121,8 +125,8 @@ I’m building a foundation through my BCA studies and project work, while explo
 - **GitHub:** [github.com/adith-k-git](https://github.com/adith-k-git)
 - **LinkedIn:** [linkedin.com/in/adith-k-in](https://www.linkedin.com/in/adith-k-in/)
 - **Instagram:** [@adith._adhi._](https://www.instagram.com/adith._adhi._/)
-- **Portfolio:** _Add portfolio URL_
-- **Email:** _Add preferred contact email_
+- **Portfolio:** *unavailable*
+- **Email:** *unavailable*
 
 ---
 
