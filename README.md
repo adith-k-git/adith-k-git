@@ -107,8 +107,8 @@ I’m building a foundation through my BCA studies and project work, while explo
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adith-k-git&show_icons=true&theme=github_dark&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adith-k-git&layout=compact&theme=github_dark&hide_border=true)
+![GitHub stats](./profile/stats.svg)
+![Top languages](./profile/top-langs.svg)
 
 </div>
 
